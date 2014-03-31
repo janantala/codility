@@ -11,6 +11,7 @@ JS solutions to Codility tasks: https://codility.com/train/
 ## Lesson 2 – Counting Elements
 - [PermCheck](https://codility.com/demo/take-sample-test/perm_check)
 - [FrogRiverOne](https://codility.com/demo/take-sample-test/frog_river_one)
+- [MaxCounters](https://codility.com/demo/take-sample-test/max_counters)
 
 # License
 
