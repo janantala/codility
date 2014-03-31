@@ -1,0 +1,25 @@
+{
+  "name": "codility",
+  "version": "0.1.0",
+  "description": "Codility training",
+  "license": "MIT",
+  "repository": "janantala/codility",
+  "author": {
+    "name": "Jan Antala",
+    "email": "hello@janantala.com",
+    "url": "http://janantala.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "codility",
+    "training"
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
