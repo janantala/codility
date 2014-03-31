@@ -8,6 +8,8 @@ JS solutions to Codility tasks: https://codility.com/train/
 - [FrogJmp](https://codility.com/demo/take-sample-test/frog_jmp)
 - [PermMissingElem](https://codility.com/demo/take-sample-test/perm_missing_elem)
 
+## Lesson 2 – Counting Elements
+- [PermCheck](https://codility.com/demo/take-sample-test/perm_check)
 
 # License
 
