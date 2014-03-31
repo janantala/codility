@@ -2,14 +2,12 @@
 
 module.exports = function solution(A) {
   var asum = 0;
-  var sum = 0;
+  var n = A.length + 1;
+  var sum = n * (n + 1) / 2;
 
   for (var i=0; i<A.length; i++){
     asum += A[i];
   }
 
-  for (var j=1; j<=A.length + 1; j++){
-    sum += j;
-  }
   return sum - asum;
 };
