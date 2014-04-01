@@ -13,6 +13,9 @@ JS solutions to Codility tasks: https://codility.com/train/
 - [FrogRiverOne](https://codility.com/demo/take-sample-test/frog_river_one)
 - [MaxCounters](https://codility.com/demo/take-sample-test/max_counters)
 
+## Lesson 3 – Prefix Sums
+- [PassingCars](https://codility.com/demo/take-sample-test/passing_cars)
+
 # License
 
 The MIT License
