@@ -16,6 +16,9 @@ JS solutions to Codility tasks: https://codility.com/train/
 ## Lesson 3 – Prefix Sums
 - [PassingCars](https://codility.com/demo/take-sample-test/passing_cars)
 
+## Lesson 4 – Sorting
+- [Distinct](https://codility.com/demo/take-sample-test/distinct)
+
 # License
 
 The MIT License
