@@ -19,6 +19,7 @@ JS solutions to Codility tasks: https://codility.com/train/
 ## Lesson 4 – Sorting
 - [Distinct](https://codility.com/demo/take-sample-test/distinct)
 - [MaxProductOfThree](https://codility.com/demo/take-sample-test/max_product_of_three)
+- [Triangle](https://codility.com/demo/take-sample-test/triangle)
 
 # License
 
