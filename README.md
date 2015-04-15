@@ -21,8 +21,11 @@ JS solutions to Codility tasks: https://codility.com/train/
 - [MaxProductOfThree](https://codility.com/demo/take-sample-test/max_product_of_three)
 - [Triangle](https://codility.com/demo/take-sample-test/triangle)
 
+## Lesson 5 - Stacks and Queues
+- [Brackets](https://codility.com/demo/take-sample-test/brackets)
+
 # License
 
 The MIT License
 
-Copyright (c) 2014 [Jan Antala](http://www.janantala.com)
+Copyright (c) 2015 [Jan Antala](http://www.janantala.com)
