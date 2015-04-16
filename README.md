@@ -29,6 +29,7 @@ JS solutions to Codility tasks: https://codility.com/train/
 
 ## Lesson 6 - Leader
 - [EquiLeader](https://codility.com/demo/take-sample-test/equi_leader)
+- [Dominator](https://codility.com/demo/take-sample-test/dominator)
 
 # License
 
