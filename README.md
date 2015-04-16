@@ -24,6 +24,7 @@ JS solutions to Codility tasks: https://codility.com/train/
 ## Lesson 5 - Stacks and Queues
 - [Brackets](https://codility.com/demo/take-sample-test/brackets)
 - [Nesting](https://codility.com/demo/take-sample-test/nesting)
+- [Fish](https://codility.com/demo/take-sample-test/fish)
 
 # License
 
