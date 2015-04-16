@@ -27,6 +27,9 @@ JS solutions to Codility tasks: https://codility.com/train/
 - [Fish](https://codility.com/demo/take-sample-test/fish)
 - [StoneWall](https://codility.com/demo/take-sample-test/stone_wall)
 
+## Lesson 6 - Leader
+- [EquiLeader](https://codility.com/demo/take-sample-test/equi_leader)
+
 # License
 
 The MIT License
