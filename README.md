@@ -31,6 +31,9 @@ JS solutions to Codility tasks: https://codility.com/train/
 - [EquiLeader](https://codility.com/demo/take-sample-test/equi_leader)
 - [Dominator](https://codility.com/demo/take-sample-test/dominator)
 
+## Lesson 7 - Maximum slice problem
+- [MaxProfit](https://codility.com/demo/take-sample-test/max_profit)
+
 # License
 
 The MIT License
