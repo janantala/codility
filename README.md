@@ -33,6 +33,7 @@ JS solutions to Codility tasks: https://codility.com/train/
 
 ## Lesson 7 - Maximum slice problem
 - [MaxProfit](https://codility.com/demo/take-sample-test/max_profit)
+- [MaxSliceSum](https://codility.com/demo/take-sample-test/max_slice_sum)
 
 # License
 
