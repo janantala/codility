@@ -25,6 +25,7 @@ JS solutions to Codility tasks: https://codility.com/train/
 - [Brackets](https://codility.com/demo/take-sample-test/brackets)
 - [Nesting](https://codility.com/demo/take-sample-test/nesting)
 - [Fish](https://codility.com/demo/take-sample-test/fish)
+- [StoneWall](https://codility.com/demo/take-sample-test/stone_wall)
 
 # License
 
